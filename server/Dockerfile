@@ -19,3 +19,4 @@ USER 1001
 
 # stage - dev
 # TODO - hot-reload (go run main.go)
+# cicd test
